@@ -1,5 +1,5 @@
 ---
-permalink: /summary
+permalink: /summary/
 title: "Research Summary"
 author_profile: true
 ---
