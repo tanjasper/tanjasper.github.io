@@ -8,15 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-*[I am graduating in December 2022 and am open to employment! If you are looking for someone skilled in machine learning, deep learning, and computational imaging, please feel free to contact me via email or linkedin!]*
+I am a **computational imaging research engineer** at [Glass Imaging](https://glass-imaging.com) designing AI algorithms for mobile image signal processing. I leverage deep learning techniques to perform image restoration tasks such as demosaicing, denoising, super-resolution, and others.
 
-I am an Electrical & Computer Engineering PhD student at [Rice University](https://www.rice.edu) doing research on **machine learning** and **computational imaging**. 
-More specifically, I work on (a) integrating deep learning with novel types of imaging devices and (b) analyzing the privacy implications of machine learning algorithms.
-
-
-I am part of both the [Rice Digital Signal Processing Group](https://dsp.rice.edu) and the [Rice Computational Imaging Group](https://computationalimaging.rice.edu) and am advised by [Prof. Richard G Baraniuk](https://richb.rice.edu) and [Prof. Ashok Veeraraghavan](https://profiles.rice.edu/faculty/ashok-veeraraghavan).
-
-
-I have also done relevant summer internships as a PhD student.
-In 2022, I built a machine learning-based music video recommendation system for the Facebook app at [Meta](https://about.facebook.com/).
-In 2019, I did research on efficient single-image super-resolution at [Light](https://web.archive.org/web/20220628195754/https://light.co/) (acquired by John Deere).
+I obtained my PhD in Electrical & Computer Engineering from [Rice University](https://www.rice.edu) as a KKI Enhancement fellow and D2K fellow, where I researched computational imaging, computer vision, and machine learning (ML). More specifically, I worked on (a) integrating deep learning with novel types of imaging devices and (b) analyzing the privacy implications of machine learning algorithms. My research has been published in venues such as IEEE Transactions on Comptuational Imaging, Optica Optics Express, NeurIPS, AISTATS, and others. I was part of both the [Rice Digital Signal Processing Group](https://dsp.rice.edu) and the [Rice Computational Imaging Group](https://computationalimaging.rice.edu) and was advised by [Prof. Richard G Baraniuk](https://richb.rice.edu) and [Prof. Ashok Veeraraghavan](https://profiles.rice.edu/faculty/ashok-veeraraghavan).

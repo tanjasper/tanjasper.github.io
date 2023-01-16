@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Jasper Tan"
-  avatar           : "headshot_3.JPG"
-  bio              : "PhD candidate | machine learning & computational imaging"
-  location         : "Houston, TX, USA"
+  avatar           : "headshot_square.png"
+  bio              : "Computational imaging and machine learning"
+  location         : "Los Altos, CA, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=sfz2jA0AAAAJ&hl=en"

@@ -15,11 +15,14 @@ Education
 ======
 * B.S. in Electrical Engineering and Computer Science & Engineering, summa cum laude, Santa Clara University, 2015
 * M.S. in Electrical & Computer Engineering, Rice University, 2018
-* Ph.D in Electrical & Computer Engineering, Rice University, 2022 (expected)
+* Ph.D in Electrical & Computer Engineering, Rice University, 2022
 
 Work experience
 ======
-* 2016--Present: Graduate Research Assistant
+* 2023--Present: Computational Imaging Research Engineer
+  * Organization: [GLASS Imaging](https://glass-imaging.com)
+  * Developing deep learning algorithms for smartphone image restoration and enhancement
+* 2016--2022: Graduate Research Assistant
   * Organization: [Rice University](https://www.rice.edu)
   * Research on machine learning and computational imaging as a PhD student
 * Summer 2022: PhD Machine Learning Software Engineer Intern
